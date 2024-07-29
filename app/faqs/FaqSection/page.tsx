@@ -38,7 +38,7 @@ const FaqSection = () => {
                                     <li className="w-full md:w-1/3 px-4 mb-4 text-underline"><Link href="/Jacksonville" className="block text-emerald-500 underline hover:underline">Jacksonville</Link></li>
                                     <li className="w-full md:w-1/3 px-4 mb-4 text-underline"><Link href="/fortlauderdale" className="block text-emerald-500 underline hover:underline">Fort Lauderdale</Link></li>
                                 </ul>
-                                <p>If you’re unsure whether we cover your location, please contact us directly at <b>407-860-8143</b> or email us at <b>cleaningresco@gmail.com</b>, and we’ll be happy to assist you.</p>
+                                <p>If you are unsure whether we cover your location, please contact us directly at <b>407-860-8143</b> or email us at <b>cleaningresco@gmail.com</b>, and we will be happy to assist you.</p>
                             </p>
                                 
                         </div>
@@ -56,9 +56,9 @@ const FaqSection = () => {
                                 <svg className="flex-shrink-0 mr-2 w-5 h-5 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                                     <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clipRule="evenodd"></path>
                                 </svg>
-                                What does "satisfaction guarantee" exactly mean?
+                                What does satisfaction guarantee exactly mean?
                             </h3>
-                            <p className="text-gray-500 dark:text-gray-400">Our satisfaction guarantee means that if you're not fully satisfied with the quality of our cleaning services, we will return and address any issues at no additional charge. Your satisfaction is our priority, and we are committed to ensuring that you are happy with the results.</p>
+                            <p className="text-gray-500 dark:text-gray-400">Our satisfaction guarantee means that if you are not fully satisfied with the quality of our cleaning services, we will return and address any issues at no additional charge. Your satisfaction is our priority, and we are committed to ensuring that you are happy with the results.</p>
                         </div>
                         <div className="mb-10">
                             <h3 className="flex items-center mb-4 text-lg font-medium text-gray-900 dark:text-white">

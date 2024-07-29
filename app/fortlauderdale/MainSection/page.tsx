@@ -36,7 +36,7 @@ const MainSection = () => {
                             <li>Coral Ridge</li>
                             <li>Fort Lauderdale Beach</li>
                             </ul>
-                            <p className="mb-5 font-light text-gray-500">If you're unsure whether we cover your area, please don’t hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
+                            <p className="mb-5 font-light text-gray-500">If you are unsure whether we cover your area, please do not hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
                     </article>
                     <article className="p-6 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                         <div className="flex justify-between items-center mb-5 text-gray-500">
@@ -53,7 +53,7 @@ const MainSection = () => {
                         At Resco Cleaning Services, we believe a clean environment is essential for well-being and productivity. Proudly serving Fort Lauderdale and the surrounding areas, our expert team is dedicated to providing premier cleaning solutions tailored to your needs.
                         </p>
                         <p className="py-3 mb-5 font-light text-gray-500 dark:text-gray-400"> 
-                        In Fort Lauderdale, RESCO offers comprehensive residential and commercial cleaning services tailored to meet the unique needs of our local community. Our residential cleaning ensures that your home remains a pristine sanctuary, with services ranging from routine housekeeping to deep cleans that address every corner. For businesses, we provide efficient and flexible commercial cleaning solutions that maintain a professional and welcoming environment, accommodating various schedules to minimize disruption. Whether you're looking to refresh your home or enhance the cleanliness of your office, RESCO delivers meticulous care with a commitment to quality and reliability.
+                        In Fort Lauderdale, RESCO offers comprehensive residential and commercial cleaning services tailored to meet the unique needs of our local community. Our residential cleaning ensures that your home remains a pristine sanctuary, with services ranging from routine housekeeping to deep cleans that address every corner. For businesses, we provide efficient and flexible commercial cleaning solutions that maintain a professional and welcoming environment, accommodating various schedules to minimize disruption. Whether you are looking to refresh your home or enhance the cleanliness of your office, RESCO delivers meticulous care with a commitment to quality and reliability.
                         </p>
                         <div className="py-3 sm:py-4 rounded-xl">
                             <img

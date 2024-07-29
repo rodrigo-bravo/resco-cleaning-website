@@ -615,7 +615,7 @@ const AboutSection = () => {
                 <p className="mb-5 text-xl text-body-color dark:text-dark-6">
                   At Resco, we understand the importance of a clean and inviting space. 
                   Our commitment is to ensure your satisfaction with every visit. Whether you need residential cleaning, 
-                  commercial janitorial services, or specialized cleaning solutions, we're here to exceed your expectations.
+                  commercial janitorial services, or specialized cleaning solutions, we are here to exceed your expectations.
                 </p>
                 <p className="mb-8 text-xl text-body-color dark:text-dark-6">
                 Establish trust and reliability with our dedicated team of cleaning professionals. 

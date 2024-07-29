@@ -36,7 +36,7 @@ const MainSection = () => {
                         <li>Arlington</li>
                         <li>Jacksonville Beach</li>
                         </ul>
-                            <p className="mb-5 font-light text-gray-500">If you're unsure whether we cover your area, please don’t hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
+                            <p className="mb-5 font-light text-gray-500">If you are unsure whether we cover your area, please do not hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
                     </article>
                     <article className="p-6 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                         <div className="flex justify-between items-center mb-5 text-gray-500">

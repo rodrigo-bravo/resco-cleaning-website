@@ -36,7 +36,7 @@ const MainSection = () => {
                             <li>South Tampa</li>
                             <li>New Tampa</li>
                         </ul>
-                            <p className="mb-5 font-light text-gray-500">If you're unsure whether we cover your area, please don’t hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
+                            <p className="mb-5 font-light text-gray-500">If you are unsure whether we cover your area, please do not hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
                     </article>
                     <article className="p-6 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                         <div className="flex justify-between items-center mb-5 text-gray-500">
@@ -47,7 +47,7 @@ const MainSection = () => {
                             <span className="text-sm">13 weeks ago</span>
                         </div>
                         <h2 className="pb-3 mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                        Tailored Office Cleaning Solutions for Tampa's Business Community
+                        Tailored Office Cleaning Solutions for Tampa&apos;s Business Community
                         </h2>
                         <p className="mb-5 font-light text-gray-500 dark:text-gray-400"> 
                         Our experienced professionals are dedicated to providing exceptional cleaning services with a personal touch that only a local company can offer. We understand the specific challenges and preferences of Tampa residents, from handling the subtropical climate’s effects on homes to navigating the busy schedules of local businesses. Our team is committed to delivering a level of service that reflects our deep roots in this community.

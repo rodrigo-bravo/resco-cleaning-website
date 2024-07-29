@@ -5,7 +5,7 @@ const MainSection = () => {
         <section className="bg-white">
             <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                 <div className="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
-                    <h2 className="mb-4 pt-10 lg:pt-10 md:pt-20 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Miami's Specialist in Commercial Cleaning</h2>
+                    <h2 className="mb-4 pt-10 lg:pt-10 md:pt-20 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Miami&apos;s Specialist in Commercial Cleaning</h2>
                     <p className="font-light text-gray-500 sm:text-xl dark:text-gray-400">
                         Explore why Why Resco is a Leading Provider of Commercial Cleaning Services in Miami
                     </p>
@@ -36,7 +36,7 @@ const MainSection = () => {
                                 <li>Coral Gables</li>
                                 <li>Little Havana</li>
                             </ul>
-                            <p className="mb-5 font-light text-gray-500">If you're unsure whether we cover your area, please don’t hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
+                            <p className="mb-5 font-light text-gray-500">If you are unsure whether we cover your area, please do not hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
                     </article>
                     <article className="p-6 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                         <div className="flex justify-between items-center mb-5 text-gray-500">
@@ -47,7 +47,7 @@ const MainSection = () => {
                             <span className="text-sm">7 weeks ago</span>
                         </div>
                         <h2 className="pb-3 mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                        Tailored Office Cleaning Solutions for Miami's Business Community
+                        Tailored Office Cleaning Solutions for Miami&apos;s Business Community
                         </h2>
                         <p className="mb-5 font-light text-gray-500 dark:text-gray-400">
                             

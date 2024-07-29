@@ -42,7 +42,7 @@ const ResServicesSection = () => {
                 <AccordionContent
                 className="border-b border-green-900 text-lg"
                 >
-                Retail store cleaning ensures a welcoming shopping experience by maintaining clean floors, dust-free displays, and clear windows. Services include sweeping, vacuuming, and mopping, along with regular upkeep of shelving and storefronts to enhance the store's appearance and customer satisfaction.
+                <p> Retail store cleaning ensures a welcoming shopping experience by maintaining clean floors, dust-free displays, and clear windows. Services include sweeping, vacuuming, and mopping, along with regular upkeep of shelving and storefronts to enhance appearance and customer satisfaction.</p>
                 <div className="flex text-teal-500 pt-4">
                 <div className="text-lg">Get Started</div>
 
@@ -57,7 +57,8 @@ const ResServicesSection = () => {
                 </AccordionTrigger>
                 <AccordionContent className="border-b border-green-900 text-lg"
                 >
-                Industrial facility cleaning involves maintaining machinery, floors, and ventilation systems. Dust and debris are removed from equipment, and floors are scrubbed using industrial-grade tools. Regular cleaning of ventilation systems ensures airflow and reduces contamination, promoting a safe and efficient industrial environment.                <div className="flex text-teal-500 pt-4">
+                    <p>
+                Industrial facility cleaning involves maintaining machinery, floors, and ventilation systems. Dust and debris are removed from equipment, and floors are scrubbed using industrial-grade tools. Regular cleaning of ventilation systems ensures airflow and reduces contamination, promoting a safe and efficient industrial environment.       </p>         <div className="flex text-teal-500 pt-4">
                 <div className="text-lg">Get Started</div>
 
                 <ArrowRight className="h-6 w-6 ml-4 " />
@@ -69,7 +70,7 @@ const ResServicesSection = () => {
                 className="text-emerald-600 text-2xl"
                 >Healthcare Facility Cleaning</AccordionTrigger>
                 <AccordionContent className="text-lg">
-                Healthcare facility cleaning provides a sterile environment with thorough disinfection of patient rooms and surgical suites. Linens are changed, medical waste managed, and high-touch surfaces disinfected to prevent infection. This ensures a safe and hygienic setting for both patients and staff.<div className="flex text-teal-500 pt-4">
+                    <p>     Healthcare facility cleaning provides a sterile environment with thorough disinfection of patient rooms and surgical suites. Linens are changed, medical waste managed, and high-touch surfaces disinfected to prevent infection. This ensures a safe and hygienic setting for both patients and staff. </p><div className="flex text-teal-500 pt-4">
                 <div className="text-lg">Get Started</div>
 
                 <ArrowRight className="h-6 w-6 ml-4 " />
@@ -81,7 +82,7 @@ const ResServicesSection = () => {
             </div>
         <Image 
             src="/images/clean_office.png" 
-            alt="Residential Cleaning Image for " 
+            alt="Office cleaning image" 
             width={800}
             height={500}
             className="hidden xl:flex rounded-lg"

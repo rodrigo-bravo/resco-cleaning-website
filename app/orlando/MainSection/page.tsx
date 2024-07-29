@@ -36,7 +36,7 @@ const MainSection = () => {
                                 <li>Dr. Phillips</li>
                                 <li>Hunters Creek</li>
                             </ul>
-                        <p className="mb-5 font-light text-gray-500">If you're unsure whether we cover your area, please don’t hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
+                        <p className="mb-5 font-light text-gray-500">If you are unsure whether we cover your area, please do not hesitate to <Link href={'/contact'} className="underline">reach out to us</Link>!</p>
                     </article>
                     <article className="p-6 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                         <div className="flex justify-between items-center mb-5 text-gray-500">
@@ -52,10 +52,10 @@ const MainSection = () => {
                         <p className="mb-5 font-light text-gray-500 dark:text-gray-400">
                         At RESCO, we take pride in being a locally owned and operated Orlando business, deeply familiar with the unique needs of our community. Our experienced professionals are dedicated to providing exceptional cleaning services with a personal touch that only a local company can offer. We understand the specific challenges and preferences of Orlando residents, from handling the subtropical climate’s effects on homes to navigating the busy schedules of local businesses. Our team is committed to delivering a level of service that reflects our deep roots in this community.
                         </p>
-                        <p className="py-3 mb-5 font-light text-gray-500 dark:text-gray-400"> We offer flexible scheduling options to accommodate the busy lives of our clients, including after-hours and weekend services. Our tailored approach ensures that each cleaning plan is designed to meet your exact needs, from routine maintenance to one-time deep cleans. Whether you're looking for regular house cleaning, office sanitation, or specialized services like carpet and upholstery cleaning, RESCO is equipped to handle it all with precision and care.
+                        <p className="py-3 mb-5 font-light text-gray-500 dark:text-gray-400"> We offer flexible scheduling options to accommodate the busy lives of our clients, including after-hours and weekend services. Our tailored approach ensures that each cleaning plan is designed to meet your exact needs, from routine maintenance to one-time deep cleans. Whether you are looking for regular house cleaning, office sanitation, or specialized services like carpet and upholstery cleaning, RESCO is equipped to handle it all with precision and care.
                         </p>
                         <p className="py-3 mb-5 font-light text-gray-500 dark:text-gray-400">
-                        As Orlando's trusted choice, we are committed to delivering reliable and thorough cleaning, ensuring your space is pristine and welcoming. Our attention to detail and dedication to customer satisfaction set us apart from the competition. We pride ourselves on building long-lasting relationships with our clients through exceptional service and transparent communication. With RESCO, you can rest assured that every job is completed to the highest standards, and your satisfaction is our top priority.</p>
+                        As Orlando&apos;s trusted choice, we are committed to delivering reliable and thorough cleaning, ensuring your space is pristine and welcoming. Our attention to detail and dedication to customer satisfaction set us apart from the competition. We pride ourselves on building long-lasting relationships with our clients through exceptional service and transparent communication. With RESCO, you can rest assured that every job is completed to the highest standards, and your satisfaction is our top priority.</p>
                     </article>
                 </div>
             </div>
