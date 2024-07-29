@@ -17,12 +17,12 @@ const ActionButtons = () => {
     return (
         <div>
             <div className="md:hidden">
-                <Sheet>
-                    <SheetTrigger>
-                        <AlignJustify />
-                    </SheetTrigger>
-                    <SheetContent>
-                        <SheetHeader>
+            <Sheet>
+                <SheetTrigger>
+                    <AlignJustify />
+                </SheetTrigger>
+                <SheetContent className=" overflow-y-auto p-4 scrollbar-hidden">
+                    <SheetHeader>
                         <SheetDescription>
                             <p className="text-center pt-6">MENU</p>
                             <hr className="border-t border-gray-400 w-full mt-3" />
@@ -45,9 +45,9 @@ const ActionButtons = () => {
                                 <Link href={'/fortlauderdale'} passHref>Fort Lauderdale</Link>
                             </div>
                         </SheetDescription>
-                        </SheetHeader>
-                    </SheetContent>
-                </Sheet>
+                    </SheetHeader>
+                </SheetContent>
+            </Sheet>
             </div>
 
         <div className="hidden py-5  md:flex md:space-x-4 items-center">
